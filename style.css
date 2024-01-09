@@ -1,0 +1,435 @@
+#section-1 .group-1 {
+    background-image: url(./images/banner-image.png);
+    width: 1320px;
+    height: 600px;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    background-color: black;
+    border-radius: 10px;
+}
+
+#section-1 .group-1 .text-1 {
+    font-size: 32px;
+    font-family: "Merriweather";
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1);
+    width: 259px;
+    height: 40px;
+}
+
+.group-1 .text-1 {
+    text-align: center;
+    padding-top: 160px;
+    padding-left: 575px;
+
+}
+
+.text-2 h1 {
+    font-size: 72px;
+    font-family: "Merriweather";
+    font-weight: 900;
+    color: rgba(255, 255, 255, 1);
+    width: 632px;
+    height: 190px;
+    text-align: center;
+    padding-left: 400px;
+}
+
+#holiday .group-3 {
+    font-size: 88px;
+    font-family: "Inter";
+    font-weight: 700;
+    color: rgba(255, 0, 0, 1);
+    width: 383px;
+    height: 107px;
+    margin: 0 auto;
+}
+
+#holiday .group-4 {
+    font-size: 24px;
+    font-family: "Inter";
+    font-weight: 500;
+    color: rgba(255, 0, 0, 1);
+    width: 397px;
+    height: 29px;
+    margin: 0 auto;
+}
+
+#holiday .group-5 {
+    font-size: 48px;
+    font-family: "Inter";
+    font-weight: 700;
+    color: rgba(7, 2, 17, 1);
+    width: 430px;
+    height: 70px;
+    margin: auto;
+
+}
+
+#holiday .group-6 img {
+    width: 800px;
+    height: 500px;
+}
+
+#holiday .group-6 {
+    margin-top: 30px;
+    margin-left: 680px;
+    margin-bottom: 80px;
+}
+
+#mid-night .group-7 {
+    background-image: url(./images/Vectorrr.png);
+    width: 1320px;
+    height: 600px;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    background-color: black;
+    border-radius: 10px;
+}
+
+#mid-night .group-8 {
+    font-size: 64px;
+    font-family: "Merriweather";
+    font-weight: 900;
+    color: rgba(255, 255, 255, 1);
+    width: 442px;
+    height: 176px;
+    padding-top: 70px;
+    padding-left: 100px;
+}
+
+#mid-night .group-9 {
+    font-size: 18px;
+    font-family: "Inter";
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1);
+    width: 697px;
+    height: 60px;
+    padding-top: 80px;
+    padding-left: 100px;
+
+}
+
+#mid-night .group-10 {
+    font-size: 20px;
+    font-family: "Inter";
+    font-weight: 700;
+    color: rgba(255, 255, 255, 1);
+    width: 103px;
+    height: 24px;
+    padding-top: 50px;
+    padding-left: 100px;
+}
+
+#park-hotel .group-11 {
+    background-color: rgba(255, 192, 203, 0.185);
+    width: 1320px;
+    height: 600px;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    border-radius: 10px;
+    margin-top: 220px;
+}
+
+#park-hotel .group-12 {
+    font-size: 32px;
+    font-family: "Inter";
+    font-weight: 600;
+    color: transparent;
+    width: 549px;
+    height: 168px;
+}
+
+#park-hotel .group-12 span {
+    color: rgb(245, 0, 0);
+}
+
+#park-hotel .group-13 {
+
+    font-family: "Merriweather";
+    font-size: 32px;
+    font-family: "Inter";
+    font-weight: 600;
+    color: transparent;
+    width: 549px;
+    height: 168px;
+    padding-top: 150px;
+    padding-left: 465px;
+    color: black;
+}
+
+#park-hotel .group-14 {
+    font-size: 20px;
+    font-family: "Inter";
+    font-weight: 700;
+    color: rgba(255, 255, 255, 1);
+    width: 103px;
+    height: 24px;
+    padding-top: 50px;
+    padding-left: 600px;
+}
+
+#park-hotel .group-14 p {
+    background-color: red;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+
+#coming-soon .group-15 {
+    width: 1320px;
+    height: 1000px;
+    border-radius: 10px;
+    margin: 0 auto;
+    /* background-color: antiquewhite; */
+    margin-top: 220px;
+}
+
+#coming-soon .group-16 {
+    text-align: center;
+    padding-top: 40px;
+    line-height: 60px;
+}
+
+#coming-soon .group-17 {
+    font-size: 30px;
+    font-family: "Inter";
+    font-weight: 500;
+    color: rgba(255, 0, 0, 1);
+}
+
+#coming-soon .group-18 {
+    font-size: 48px;
+    font-family: "Merriweather";
+    font-weight: 900;
+    color: rgba(7, 2, 17, 1);
+}
+
+#coming-soon .group-19 {
+    font-size: 24px;
+    font-family: "Inter";
+    font-weight: 400;
+    color: rgba(7, 2, 17, 1);
+}
+
+#coming-soon .group-20 img {
+    height: 250px;
+    border: 11px solid red;
+    border-radius: 100%;
+    padding: 5px;
+}
+
+#coming-soon .group-20 {
+    text-align: center;
+    padding-top: 40px;
+}
+
+#coming-soon .group-21 #twowenty {
+    font-size: 48px;
+    font-family: "Inter";
+    font-weight: 700;
+    color: rgba(255, 0, 0, 1);
+    text-align: center;
+}
+
+#coming-soon .group-21 #wishing {
+    font-size: 24px;
+    font-family: "Inter";
+    font-weight: 400;
+    color: rgba(7, 2, 17, 1);
+    text-align: center;
+}
+
+#coming-soon .group-21 {
+    text-align: center;
+    line-height: 60px;
+    padding-top: 40px;
+}
+
+#function .group-22 {
+    width: 1320px;
+    height: 1200px;
+    border-radius: 10px;
+    margin: 0 auto;
+    /* background-color: antiquewhite; */
+    /* remove the color  */
+}
+
+#function .group-23 {
+    font-size: 24px;
+    font-family: "Inter";
+    font-weight: 500;
+    color: rgba(7, 2, 17, 1);
+    text-align: center;
+    padding-top: 30px;
+}
+
+#function .group-24 {
+    font-size: 72px;
+    font-family: "Merriweather";
+    font-weight: 900;
+    color: transparent;
+    color: black;
+    text-align: center;
+}
+
+#function .group-24 #sale {
+    color: red;
+}
+
+#function .group-25 {
+    font-size: 20px;
+    font-family: "Inter";
+    font-weight: 500;
+    color: rgba(7, 2, 17, 1);
+    text-align: center;
+}
+
+#function .group-26 {
+    background-image: url(./images/Rectangle\ 1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    text-align: right;
+    height: 429px;
+    height: 433px;
+    display: inline-block;
+    padding-left: 55%;
+}
+
+#function .group-27 {
+    padding-right: 290px;
+}
+
+#function .group-28 {
+    background-image: url(./images/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 429px;
+}
+
+#function .group-30 {
+    width: 156;
+    height: 208px;
+    position: relative;
+    padding-bottom: 100px;
+}
+
+#best-gift .group-31 {
+    width: 1320px;
+    height: 1000px;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    border-radius: 10px;
+    margin-top: 220px;
+}
+
+#best-gift .group-32 p {
+    font-size: 24px;
+    font-family: "Inter";
+    font-weight: 500;
+    color: rgba(255, 0, 0, 1);
+    padding-top: 20px;
+}
+
+#best-gift .group-33 p {
+    font-size: 48px;
+    font-family: "Merriweather";
+    font-weight: 900;
+    color: rgba(7, 2, 17, 1);
+}
+
+#best-gift .group-34 p {
+    font-size: 20px;
+    font-family: "Inter";
+    font-weight: 400;
+    color: rgba(7, 2, 17, 1);
+}
+
+#best-gift .group-36 {
+    padding-top: 24px;
+}
+
+#subscribed .group-37 {
+    background-color: rgba(197, 16, 46, 0.185);
+    width: 1320px;
+    height: 600px;
+    margin: 0 auto;
+    border-radius: 10px;
+    margin-top: 220px;
+    text-align: center;
+}
+
+#subscribed .group-37 img {
+    padding-top: 70px;
+}
+
+#subscribed .group-38 {
+    font-size: 48px;
+    font-family: "Merriweather";
+    font-weight: 900;
+    color: rgba(7, 2, 17, 1);
+}
+
+#subscribed {
+    padding-top: 220px;
+}
+
+#subscribed .group-40 input {
+    width: 640px;
+    height: 71px;
+    display: inline-block;
+    border-radius: 30px;
+    border: none;
+}
+
+#subscribed .group-40 button {
+    color: white;
+    background-color: red;
+    height: 71px;
+    border-radius: 20px;
+    width: 150px;
+    border: none;
+}
+
+#foot .group-41 {
+    background-color: black;
+    width: 100%;
+    height: 800px;
+    margin-top: 220px;
+    display: inline-block;
+}
+
+#foot .group-42 {
+    font-size: 24px;
+    font-family: "Inter";
+    font-weight: 500;
+    color: rgba(255, 255, 255, 1);
+    display: inline-block;
+    padding-top: 30px;
+    text-align: ;
+}
+
+#foot .group-43 p {
+    padding-left: 700px;
+}
+
+#foot img {
+    padding-left: 700px;
+
+}
+
+#foot .group-44 img {
+    width: 64px;
+    padding-top: 50px;
+    padding-left: 300px;
+    margin-bottom: 50px;
+
+}
+
+#foot .group-45 {
+    font-size: 24px;
+    font-family: "Inter";
+    font-weight: 500;
+    color: rgba(255, 255, 255, 1);
+    padding-top: 10px;
+    text-align: center;
+}
